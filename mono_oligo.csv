@@ -1,0 +1,72 @@
+Город,Страна,Количество участников,Ссылка
+Pekin, Китай,2,https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Shanghai, Китай,4,https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D1%85%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Tokyo, Япония,2,https://kak-eto-sdelano.livejournal.com/519475.html
+Barcelona ,Испания,2,https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+London,Великобритания,Государство,https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+New York,США,Монополия,https://ru.wikipedia.org/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Seoul ,Республика Корея,2,https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Guangzhou ,Китай,2,https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%93%D1%83%D0%B0%D0%BD%D1%87%D0%B6%D0%BE%D1%83
+Sao Paulo, Бразилия,3,https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%A1%D0%B0%D0%BD-%D0%9F%D0%B0%D1%83%D0%BB%D1%83
+Shenzhen ,Китай,2,https://ru.m.wikipedia.org/wiki/%D0%A8%D1%8D%D0%BD%D1%8C%D1%87%D0%B6%D1%8D%D0%BD%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Paris,Франция,Монополия,https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Singapore,Сингапур,Государство,https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Madrid,Испания,Монополия,https://translated.turbopages.org/proxy_u/en-ru.ru.bd04f6a4-6288c01b-77057b02-74722d776562/https/en.wikipedia.org/wiki/Madrid_Metro
+Hong Kong ,Китай,2,https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Chengdu,Китай,Монополия,https://en.wikipedia.org/wiki/Chongqing_Rail_Transit
+Busan,Южная Корея,3,https://ru.m.wikipedia.org/wiki/%D0%9F%D1%83%D1%81%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Tehran,Иран,Монополия,https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B3%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Washington,США,Государство,https://ru.frwiki.wiki/wiki/M%C3%A9tro_de_Washington
+San Francisco,США,Монополия,https://ru.wikipedia.org/wiki/Muni_Metro
+Mexico City,Мексика,Монополия,https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%9C%D0%B5%D1%85%D0%B8%D0%BA%D0%BE
+Vancouver,Канада,Монополия,https://ru.wikipedia.org/wiki/SkyTrain_2%D0%B0%D0%BD%D0%BA%D1%83%D0%B2%D0%B5%D1%80)
+Delhi,Индия,Монополия,https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Rotterdam,Нидерланды,Монополия,https://ru.m.wikipedia.org/wiki/%D0%A0%D0%BE%D1%82%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Oslo,Норвегия,Монополия,"https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%9E%D1%81%D0%BB%D0%BE#:~:text=%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD%20%D0%9E%D1%81%D0%BB%D0%BE%20D%D0%BE%D1%80%D0%B2.,%D0%B8%D0%BC%D0%B5%D0%B5%D1%82%20%D0%B4%D0%BB%D0%B8%D0%BD%D1%83%20%D0%BB%D0%B8%D0%BD%D0%B8%D0%B9%2080%20%D0%BA%D0%BC"
+Stockholm,Швеция,Монополия,https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Bangkok,Тайланд,Монополия,"https://ru.m.wikipedia.org/wiki/MRT_1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%91%D0%B0%D0%BD%D0%B3%D0%BA%D0%BE%D0%BA)"
+Chengdu,Китай,Монополия,https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%A7%D1%8D%D0%BD%D0%B4%D1%83
+Osaka,Япония,Монополия,"https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD#:~:text=%D0%9C%D0%B5%D1%82%D1%80%D0%BE%20%D0%9E%D1%81%D0%B0%D0%BA%D0%B0%20F%D0%BF.,%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%9E%D1%81%D0%B0%D0%BA%D0%B8%200%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%20%D0%9A%D0%B0%D0%BD%D1%81%D0%B0%D0%B9)"
+Hamburg,Германия,Монополия,https://ru.m.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Berlin,Германия,Монополия,https://ru.m.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Nanjing,Китай,Монополия,"https://en.wikipedia.org/wiki/Nanjing_Metro#:~:text=The%20Nanjing%20Metro%20is%20a,the%20People's%20Republic%20of%20China"
+Chicago,США,Монополия,https://ru.m.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BA%D0%B0%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Cairo,Египт,Монополия,https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Tianjin ,Китая,2,https://en.wikipedia.org/wiki/Tianjin_Metro
+Vienna,Австрия,Монополия,https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Newcastle,Великобритания,Монополия,https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%A3%D0%B8%D1%80%D0%B0
+Caracas,Венесуэлла,Монополия,https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D1%81%D0%B0
+Ankara,Турция,Монополия,https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Prague,Чехия,Монополия,https://ru.m.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Dubai ,ОАЭ,2,https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Kiev,Украина,Монополия,https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Athens,Греция,Монополия,https://ru.m.wikipedia.org/wiki/%D0%90%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Rome,Италия,Монополия,https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Manila,Филлиппины,Монополия,https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Chennai,Индия,Монополия,https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BD%D0%BD%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Lille,Франция,Монополия,https://ru.m.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BB%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Kaohsiung,"Частично-признанное государство Тайвань, контролируемое Китаем",Монополия,https://ru.m.wikipedia.org/wiki/%D0%93%D0%B0%D0%BE%D1%81%D1%8E%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Panama City,Панама,Монополия,https://wiki5.ru/wiki/Panama_Metro
+Copenhagen,Дания,Монополия,https://ru.m.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BF%D0%B5%D0%BD%D0%B3%D0%B0%D0%B3%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Salvador,Бразилия,Монополия,https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80%D0%B0
+Buenos Aires,Аргентина,Монополия,https://ru.frwiki.wiki/wiki/M%C3%A9tro_de_Buenos_Aires
+Izmir,Турция,Монополия,https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Novosibirsk,Россия,Государство,https://www.nsk-metro.ru/
+Yerevan,Армения,Государство,https://ru.wikipedia.org/wiki/%D0%95%D1%80%D0%B5%D0%B2%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Almaty,Казахстан,Монополия,https://ru.m.wikipedia.org/wiki/%D0%90%D0%BB%D0%BC%D0%B0-%D0%90%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Zhengzhou,Китай,Монополия,https://en.wikipedia.org/wiki/Zhengzhou_Metro
+Philadelphia,США,Монополия,https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D0%B8
+Valencia,Венесуэлла,Монополия,https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%81%D0%B8%D0%B8_2%D0%B5%D0%BD%D0%B5%D1%81%D1%83%D1%8D%D0%BB%D0%B0)
+Genoa,Италия,Монополия,https://ru.m.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%83%D1%8D%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Yokohama,Япония,Монополия,https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%BA%D0%BE%D0%B3%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Incheon ,Южная Корея,2,https://en.wikipedia.org/wiki/Incheon_Subway
+Kazan,Россия,Монополия,https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Wuxi,Китай,Монополия,https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%A3%D1%81%D0%B8
+Rio de Janeiro,Бразилия,Монополия,"https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%A0%D0%B8%D0%BE-%D0%B4%D0%B5-%D0%96%D0%B0%D0%BD%D0%B5%D0%B9%D1%80%D0%BE#:~:text=%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD%20%D0%A0%D0%B8%D0%BE%2D%D0%B4%D0%B5%2D%D0%96%D0%B0%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%20BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D1%83%20%D0%A0%D0%B8%D0%BE%2D%D0%B4%D0%B5%2D%D0%96%D0%B0%D0%BD%D0%B5%D0%B9%D1%80%D0%BE."
+Saint Petersburg,Россия,Государство,https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Moscow,Россия,Государство,Московский метрополитен — Википедия edia.org)
+Yekaterinburg,Россия,Государство,Екатеринбургский метрополитен — Википедия edia.org)
+Nizhny Novgorod,Россия,Государство,Нижегородский метрополитен — Википедия edia.org)
+Nanning,Китай,Монополия,https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BD%D1%8C%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
+Kazan,Россия,Государство,Казанский метрополитен — Википедия edia.org)
+Wuhan,Китай,Монополия,https://ru.wikipedia.org/wiki/%D0%A3%D1%85%D0%B0%D0%BD%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD
